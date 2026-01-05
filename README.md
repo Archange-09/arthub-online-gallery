@@ -1,4 +1,5 @@
-# Simple Artwork Upload Platform
+# Simple Artwork Upload Platform For A Case Study
+## Arthub: Art Gallery
 
 This is a lightweight web application built with **PHP** that allows users to upload and showcase their digital artwork.
 
